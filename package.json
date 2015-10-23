@@ -1,0 +1,22 @@
+{
+  "name": "formula-lower",
+  "version": "1.0.0",
+  "description": "LOWER function",
+  "main": "LOWER.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/lower.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/lower/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/lower#readme",
+  "dependencies": {
+    "tape": "^4.2.2"
+  }
+}
